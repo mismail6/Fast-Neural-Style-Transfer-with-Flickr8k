@@ -9,10 +9,10 @@ Here are the results I got:
 <p align="center">
   <img src="input_image.jpg" alt="Image" width="200 height="200>
   <img src="style1.jpg" alt="Style" width="200 height="200>
-  <img src="style_out1.jpg" alt="Result" width="200 height="200>
+  <img src="resultsstyle_out1.jpg" alt="Result" width="200 height="200>
 </p>
 <p align="center">
   <img src="input_image.jpg" alt="Image" width="200 height="200>
-  <img src="style2.jpg" alt="Style" width="200 height="200>
-  <img src="style_out2.jpg" alt="Result" width="200 height="200>
+  <img src="style2.png" alt="Style" width="200 height="200>
+  <img src="results/style_out2.jpg" alt="Result" width="200 height="200>
 </p>
