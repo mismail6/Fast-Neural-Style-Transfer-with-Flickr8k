@@ -7,8 +7,8 @@ Then the learned style can be applied to an input image that matches the classif
 
 Here are the results I got:
 <p align="center">
-  <img src="input_image.jpg" alt="Image" width="256" height="200" style="margin-right: 40px;">
-  <img src="style1.jpg" alt="Style" width="256" height="200" style="margin-right: 40px;">
+  <img src="input_image.jpg" alt="Image" width="256" height="200" style="margin-right: 10px;">
+  <img src="style1.jpg" alt="Style" width="256" height="200" style="margin-right: 10px;">
   <img src="results/style_out1.jpg" alt="Result" width="256" height="200">
 </p>
 <p align="center">
