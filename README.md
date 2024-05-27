@@ -7,12 +7,12 @@ Then the learned style can be applied to an input image that matches the classif
 
 Here are the results I got:
 <p align="center">
-  <img src="input_image.jpg" alt="Image">
-  <img src="style1.jpg" alt="Style">
-  <img src="style_out1.jpg" alt="Result">
+  <img src="input_image.jpg" alt="Image" width="200 height="200>
+  <img src="style1.jpg" alt="Style" width="200 height="200>
+  <img src="style_out1.jpg" alt="Result" width="200 height="200>
 </p>
 <p align="center">
-  <img src="input_image.jpg" alt="Image">
-  <img src="style2.jpg" alt="Style">
-  <img src="style_out2.jpg" alt="Result">
+  <img src="input_image.jpg" alt="Image" width="200 height="200>
+  <img src="style2.jpg" alt="Style" width="200 height="200>
+  <img src="style_out2.jpg" alt="Result" width="200 height="200>
 </p>
